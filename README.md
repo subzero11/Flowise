@@ -1,5 +1,10 @@
 # Flowise
 
+Running Flowise in Local Containerized Docker environment.  
+
+RAG Implementation:  
+
+## Flow = [Upload PDF --> Recursive Text splitting --> Embeddding --> Memory Vector Store --> Conversational Retreival QA Chain]
 
 ![portainer](https://github.com/subzero11/Flowise/assets/16353348/81723300-d926-4939-8af1-cbbba9e13a64)
 
