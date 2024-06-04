@@ -1,5 +1,6 @@
 # Flowise
 
+![portainer](https://github.com/subzero11/Flowise/assets/16353348/f2902d9b-fd17-44d3-9697-69045c426848)
 
 ![portainer](https://github.com/subzero11/Flowise/assets/16353348/81723300-d926-4939-8af1-cbbba9e13a64)
 
