@@ -1,6 +1,6 @@
 # Flowise
 
-Running Flowise in Local Containerized Docker environment.  
+Running Flowise in Portainer, a Local Containerized Docker environment.  
 
 ## RAG Implementation:  
 
